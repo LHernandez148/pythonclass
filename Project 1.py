@@ -19,7 +19,7 @@ while e == 1:
     if len(Input) == 1:
         1
     else:
-        wind = Input[1]
+        Wind = Input[1]
         WindL.append(Wind)
     RainL.append(Rain)
     o = o + 1
